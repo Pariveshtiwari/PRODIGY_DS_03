@@ -52,9 +52,6 @@ Run the Jupyter Notebook or Python script to see the results:
 
 
 jupyter notebook decision_tree_classifier.ipynb
-Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 Acknowledgements
 
