@@ -1,16 +1,14 @@
-Decision Tree Classifier for Predicting Customer Purchases
+# Decision Tree Classifier for Predicting Customer Purchases
 
-Overview
+# Overview
 
-This project involves building a Decision Tree Classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. 
-The Bank Marketing dataset from the UCI Machine Learning Repository is used for this task.
+This project involves building a Decision Tree Classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The Bank Marketing dataset from the UCI Machine Learning Repository is used for this task.
 
-Task Statement
+# Task Statement
 
-Task-03: Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.
-Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
+Task-03: Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
 
-Project Steps
+# Project Steps
 
 1. Data Preparation
 Loading Data: The dataset was loaded into a pandas DataFrame.
@@ -27,13 +25,15 @@ Accuracy: The model achieved an accuracy score of 89%.
 Evaluation Metrics: Other key metrics such as precision, recall, and the confusion matrix were computed to evaluate the model's performance.
 4. Visualization
 Decision Tree Visualization: The decision-making process of the trained model was visualized using matplotlib to gain insights into customer behavior and predictive factors.
-Results
+
+
+# Results
 
 The Decision Tree Classifier achieved an accuracy of 89% on the test set, demonstrating its effectiveness in predicting customer subscription to a term deposit.
 
 Getting Started
 
-Prerequisites
+# Prerequisites
 Ensure you have the following libraries installed:
 
 pandas
@@ -43,23 +43,13 @@ matplotlib
 Installation
 
 
-Install the required packages:
 
+# Install the required packages:
 
-pip install -r requirements.txt
-
-Usage
-Run the Jupyter Notebook or Python script to see the results:
-
-
-jupyter notebook decision_tree_classifier.ipynb
 
 Acknowledgements
 
 This project was completed as part of an internship task at Prodigy Infotech.
-
-
-
 
 
 
