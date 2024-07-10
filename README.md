@@ -47,6 +47,7 @@ Install the required packages:
 
 
 pip install -r requirements.txt
+
 Usage
 Run the Jupyter Notebook or Python script to see the results:
 
